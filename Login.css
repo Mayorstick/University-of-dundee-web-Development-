@@ -1,0 +1,23 @@
+#signUpButton{
+    background-color: white !important;
+    color: blue!important;
+    border: none !important;
+    text-decoration: underline;
+    
+}
+
+#signUpClick{
+    background-color: white !important;
+    color: blue!important;
+    border: none !important;
+    text-decoration: underline;
+    
+}
+.container-fluid form .error-msg{
+    margin: 10px 0 !important;
+    display: block !important;
+    background-color: crimson !important;
+    color: white !important;
+    border-radius: 5px !important;
+    font-size: 20px !important;
+}

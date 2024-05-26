@@ -1,0 +1,10 @@
+body{
+    background-image: url(/Images/BG1.jpg);
+    background-size: cover;
+    background-repeat: none !important;
+    
+}
+
+#section1{
+    margin-top: 150px !important;
+}

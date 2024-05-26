@@ -1,0 +1,39 @@
+.aboutCs{
+    display: flex;
+    justify-content: center;
+    margin-top: 25vh;
+}
+.nav-link:hover{
+    color: orange !important;
+}
+#line{
+    width: 300px;
+    height: 50px;
+    color: red;
+}
+#ourmissionImg{
+    border-radius: 100px;
+}
+#easy:hover{
+    color: orange;
+}
+#what{
+     text-align: center;
+}
+#what :hover{
+    
+    color: orange !important;
+}
+.services{
+    justify-content: space-around !important;
+}
+#girl{
+    border-radius: 30px;
+}
+
+#boy{
+    border-radius: 30px;
+}
+footer{
+    color: white !important;
+}

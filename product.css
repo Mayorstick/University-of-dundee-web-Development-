@@ -1,0 +1,42 @@
+
+.card{
+    transition: all 0.3s !important;
+}
+.card:hover{
+    transform: scale(1.15) !important;
+}
+
+.custom-card {
+    width: 18rem;
+    height: 22rem; 
+    display: flex;
+    flex-direction: column;
+}
+
+.custom-img {
+    height: 12rem; 
+    object-fit: cover;
+}
+
+#cart {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-top: 20px;
+    
+}
+
+#cart h4 {
+    margin-bottom: 20px;
+}
+
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#row{
+    /* justify-content: space-evenly !important; */
+    /* margin-left: 0px !important; */
+}
+
+
